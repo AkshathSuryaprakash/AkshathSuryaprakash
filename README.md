@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkshathSuryaprakash
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning UIUX design
-- 💞️ I’m looking to collaborate on Data Science Engineer
+- 👀 I’m interested in Backend Devlopment 
+- 🌱 I’m currently learning Backend Devolpment
+- 💞️ I’m looking to collaborate on Java Developers
 - 📫 How to reach me ...akshathdeepa1978@gmail.com
 - 😄 Pronouns: ...HE
 
